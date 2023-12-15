@@ -1,0 +1,1 @@
+components.layouts.main<?php /**PATH C:\Users\GOLD\Desktop\laravel-CRUD\storage\framework\views/09fef654e743e29a0f1dc2f53d2c94af.blade.php ENDPATH**/ ?>

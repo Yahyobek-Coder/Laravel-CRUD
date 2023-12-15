@@ -1,0 +1,1 @@
+components.page-header<?php /**PATH C:\Users\GOLD\Desktop\laravel-CRUD\storage\framework\views/7319a1f7ce777a58ae45a2de18864efa.blade.php ENDPATH**/ ?>
